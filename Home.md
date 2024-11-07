@@ -1,7 +1,7 @@
-Welcome to the t3-wiki wiki!
+# Track & Trace Tools (T3) Wiki
 
-# Foo
+Welcome to the Track & Trace Tools (T3) wiki!
 
-## Bar
+This public wiki contains all information related to the Track & Trace Tools platform.
 
-<img src="./images/logo_only_800.png" alt="Alt text" width="300" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+If you're looking to learn more about T3, use the sidebar on the right to navigate around the Wiki, or [start here](./Introduction).
