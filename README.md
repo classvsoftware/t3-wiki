@@ -1,2 +1,3 @@
-# t3-wiki
-Track &amp; Trace Tools Wiki
+# Track &amp; Trace Tools Wiki
+
+[Take me to the T3 Wiki](./wiki)
